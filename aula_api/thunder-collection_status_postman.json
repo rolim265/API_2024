@@ -1,0 +1,26 @@
+{
+    "info": {
+        "_postman_id": "9af88f08-8f60-4525-8545-f9e7dddcc1ca",
+        "name": "status",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+        "description": ""
+    },
+    "item": [
+        {
+            "name": "verifyc-status",
+            "request": {
+                "method": "GET",
+                "url": {
+                    "raw": "localhost/aula_api/app/",
+                    "path": [
+                        "aula_api",
+                        "app"
+                    ],
+                    "host": [
+                        "localhost"
+                    ]
+                }
+            }
+        }
+    ]
+}
